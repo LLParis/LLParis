@@ -5,7 +5,8 @@
 
 <!-- Multi-line typing animation with neon effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=500&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Building+research-grade+capabilities+through+weekly+proof-of-work;Procedural+Generation+→+Simulation+Benchmarks+→+Long-Horizon+Agents;Target%3A+UW+GRAIL+caliber+||+Method%3A+Ship+→+Document+→+Iterate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=500&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Building+research-grade+capabilities+through+weekly+proof-of-work;Procedural+Generation+-+Simulation+Benchmarks+-+Long-Horizon+Agents;Target%3A+UW+GRAIL+caliber+-+Method%3A+Ship+-+Document+-+Iterate" alt="Typing SVG" />
+
 </a>
 
 <br/>
