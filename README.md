@@ -1,4 +1,39 @@
 <!-- LLParis Profile README — v2 (aesthetic + stable) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0b1220"/>
+    </linearGradient>
+
+    <linearGradient id="fg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00E5FF"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="18" y="18" width="1164" height="184" rx="22" fill="url(#bg)" stroke="#1f2937" stroke-width="2"/>
+
+  <text x="60" y="110"
+        font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial"
+        font-size="64" font-weight="800" fill="url(#fg)" letter-spacing="2">
+    LLPARIS
+  </text>
+
+  <text x="62" y="152"
+        font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial"
+        font-size="18" fill="#cbd5e1">
+    Graphics × Generative AI × Simulation / Benchmarks × Long-horizon Agents
+  </text>
+
+  <text x="62" y="178"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+        font-size="13" fill="#94a3b8">
+    status: building foundations → shipping weekly artifacts (not claiming affiliations)
+  </text>
+</svg>
 
 <div align="center">
 
