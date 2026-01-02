@@ -727,7 +727,8 @@ Novel contributions
 
 <!-- Placeholder for demo clips and screenshots -->
 <p align="center">
-  <img src="https://via.placeholder.com/900x400/0b1220/00E5FF?text=🎬+Demo+Clips+Coming+Soon+%7C+Week+1+Sprint" width="90%" alt="Demo showcase"/>
+  <img src="https://placehold.co/900x400/0b1220/00E5FF?text=Demo+Clips+Coming+Soon+%7C+Week+1+Sprint" width="90%" alt="Demo showcase"/>
+
 </p>
 
 <br/><br/>
