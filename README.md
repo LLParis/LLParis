@@ -459,7 +459,7 @@ accountability:
 </picture>
 
 <!-- Trophy display -->
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=LLParis&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+# <img width="90%" src="https://github-profile-trophy.vercel.app/?username=LLParis&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 
 </div>
 
