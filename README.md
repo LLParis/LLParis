@@ -16,13 +16,13 @@
 <!-- Premium social badges with glow -->
 <p>
   <a href="https://github.com/LLParis">
-    <img src="https://img.shields.io/badge/⚡_GITHUB-LLParis-00E5FF?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0b1220"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0b1220"/>
   </a>
   <a href="https://twitter.com/ggen5v">
-    <img src="https://img.shields.io/badge/⚡_X-@ggen5v-7C3AED?style=for-the-badge&logo=x&logoColor=7C3AED&labelColor=0b1220"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-X-7C3AED?style=for-the-badge&logo=x&logoColor=7C3AED&labelColor=0b1220"/>
   </a>
-  <img src="https://img.shields.io/badge/STATUS-🟢_BUILDING-22C55E?style=for-the-badge&labelColor=0b1220"/>
-  <img src="https://img.shields.io/badge/WEEKLY-SHIPPING-00E5FF?style=for-the-badge&labelColor=0b1220"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/STATUS-🟢_BUILDING-22C55E?style=for-the-badge&labelColor=0b1220"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/WEEKLY-SHIPPING-00E5FF?style=for-the-badge&labelColor=0b1220"/>
 </p>
 
 </div>
@@ -97,9 +97,9 @@ assert journey.philosophy == "ship > talk", "Proof beats hype"
 
 ---
 
-<br/>
-
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ## 🚀 ACTIVE RESEARCH REPOSITORIES
 
@@ -358,9 +358,9 @@ accountability:
 
 ---
 
-<br/>
-
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ## 💻 TECHNOLOGY STACK & TOOLCHAIN
 
@@ -378,9 +378,12 @@ accountability:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=python,git,linux,docker,vscode,vim,github,bash&perline=4" />
 
 </div>
 
@@ -394,9 +397,12 @@ accountability:
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Unreal](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=blender,unreal,threejs,unity,godot,webgl&perline=3" />
 
 </div>
 
@@ -410,10 +416,12 @@ accountability:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,&perline=3" />
 
 </div>
 
@@ -425,9 +433,9 @@ accountability:
 
 ---
 
-<br/>
-
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ## 📊 DEVELOPMENT METRICS & ACTIVITY
 
@@ -441,6 +449,13 @@ accountability:
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=LLParis&theme=react&hide_border=true&background=0b1220&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=22C55E&currStreakNum=cbd5e1&sideNums=cbd5e1&dates=94a3b8" />
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=LLParis&bg_color=0b1220&color=00E5FF&line=7C3AED&point=22C55E&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph&height=300&days=60" />
+
+<!-- Animated contribution snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LLParis/LLParis/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LLParis/LLParis/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LLParis/LLParis/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!-- Trophy display -->
 <img width="90%" src="https://github-profile-trophy.vercel.app/?username=LLParis&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
@@ -712,26 +727,28 @@ Novel contributions
 <div align="center">
 
 <!-- Placeholder for demo clips and screenshots -->
-<img src="https://via.placeholder.com/900x400/0b1220/00E5FF?text=Demo+Clips+Coming+Soon+|+Week+1+Sprint" width="90%" alt="Demo showcase"/>
+<p align="center">
+  <img src="https://via.placeholder.com/900x400/0b1220/00E5FF?text=🎬+Demo+Clips+Coming+Soon+%7C+Week+1+Sprint" width="90%" alt="Demo showcase"/>
+</p>
 
 <br/><br/>
 
 <table>
 <tr>
-<td width="33%">
-<img src="https://via.placeholder.com/300x200/0b1220/7C3AED?text=Procedural+Terrain" width="100%" alt="Terrain demo"/>
-<div align="center"><b>Procedural Terrain</b></div>
-<div align="center"><i>Q1 2026</i></div>
+<td width="33%" align="center">
+<img src="https://via.placeholder.com/300x200/0b1220/7C3AED?text=🌍+Procedural+Terrain" width="100%" alt="Terrain demo"/>
+<br/><b>Procedural Terrain</b>
+<br/><i>Q1 2026</i>
 </td>
-<td width="33%">
-<img src="https://via.placeholder.com/300x200/0b1220/22C55E?text=Benchmark+Results" width="100%" alt="Benchmark demo"/>
-<div align="center"><b>Benchmark Suite</b></div>
-<div align="center"><i>Q1 2026</i></div>
+<td width="33%" align="center">
+<img src="https://via.placeholder.com/300x200/0b1220/22C55E?text=📊+Benchmark+Results" width="100%" alt="Benchmark demo"/>
+<br/><b>Benchmark Suite</b>
+<br/><i>Q1 2026</i>
 </td>
-<td width="33%">
-<img src="https://via.placeholder.com/300x200/0b1220/00E5FF?text=Agent+Planning" width="100%" alt="Agent demo"/>
-<div align="center"><b>Long-Horizon Agent</b></div>
-<div align="center"><i>Q2 2026</i></div>
+<td width="33%" align="center">
+<img src="https://via.placeholder.com/300x200/0b1220/00E5FF?text=🤖+Agent+Planning" width="100%" alt="Agent demo"/>
+<br/><b>Long-Horizon Agent</b>
+<br/><i>Q2 2026</i>
 </td>
 </tr>
 </table>
@@ -739,10 +756,10 @@ Novel contributions
 <br/>
 
 > **Note**: Visuals will be populated as weekly artifacts ship. Each demo includes:
-> - Screen recording (30-60s)
-> - Technical breakdown
-> - Code snippets
-> - Lessons learned
+> - 🎬 Screen recording (30-60s)
+> - 📝 Technical breakdown
+> - 💻 Code snippets
+> - 🎓 Lessons learned
 
 </div>
 
