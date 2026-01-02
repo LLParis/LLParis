@@ -1,77 +1,67 @@
-<!-- Profile README — LLParis -->
+<!-- LLParis Profile README — v2 (aesthetic + stable) -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:111827&height=170&section=header&text=LLParis&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=UW%20Graphics%20%26%20Imaging%20(GRAIL)%20Track%20%E2%80%94%20Graphics%20%C3%97%20Generative%20AI%20%C3%97%20Real-Time&descAlignY=58&descSize=16" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/LLParis">
-    <img src="https://img.shields.io/badge/GitHub-LLParis-0b1220?style=for-the-badge&logo=github" />
-  </a>
-  <!-- Optional: add these later if you want -->
-  <!--
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0b1220?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://twitter.com/YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/X-Updates-0b1220?style=for-the-badge&logo=x" />
-  </a>
-  -->
-</p>
+<!-- Self-contained animated header (no external banner service needed) -->
+<svg viewBox="0 0 900 140" width="900" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LLParis header">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF">
+        <animate attributeName="stop-color" values="#00E5FF;#7C3AED;#00E5FF" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#7C3AED">
+        <animate attributeName="stop-color" values="#7C3AED;#22C55E;#7C3AED" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#22C55E">
+        <animate attributeName="stop-color" values="#22C55E;#00E5FF;#22C55E" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
 
-<h3 align="center">
-  Building foundations → shipping weekly artifacts.<br/>
-  Focus: real-time stylized rendering + vision tooling for stability.
-</h3>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="140" rx="18" fill="#0b1220"/>
+  <text x="50%" y="58%" text-anchor="middle" dominant-baseline="middle"
+        font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial"
+        font-size="56" fill="url(#g)" filter="url(#softGlow)" letter-spacing="2">
+    LLPARIS
+  </text>
+  <text x="50%" y="82%" text-anchor="middle" dominant-baseline="middle"
+        font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial"
+        font-size="14" fill="#cbd5e1" opacity="0.95">
+    UW / GRAIL lane — Graphics × Generative AI × Real-Time Anime Pipeline
+  </text>
+</svg>
+
+<br/>
+
+<a href="https://github.com/LLParis">
+  <img src="https://img.shields.io/badge/github-LLParis-0b1220?style=for-the-badge&logo=github" />
+</a>
+<!-- Add these later if you want -->
+<!--
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <img src="https://img.shields.io/badge/linkedin-connect-0b1220?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://twitter.com/YOUR_HANDLE">
+  <img src="https://img.shields.io/badge/x-updates-0b1220?style=for-the-badge&logo=x" />
+</a>
+<a href="https://www.youtube.com/@YOUR_CHANNEL">
+  <img src="https://img.shields.io/badge/youtube-channel-0b1220?style=for-the-badge&logo=youtube" />
+</a>
+-->
+
+</div>
 
 ---
 
-## 🔥 Now
-- **Primary:** UW/GRAIL readiness — fundamentals + weekly shipped work
-- **Current build:** Python foundations → tools → vision/graphics experiments
-- **Rule:** every week = **demo clip + commits + 1-page log**
-
----
-
-## 📌 Pinned repos (coming online)
-> Once you create these repos, pin them on your profile.
-
-- `python-foundations-lab` (course + upgrades, structured commits)
-- `receipt-cli` (promoted project → real CLI tool)
-- `npr-anime-render-lab` (real-time stylization experiments)
-- `stability-metrics-lab` (optical flow / warping / metrics)
-
----
-
-## 🧰 Stack (current)
-<p>
-  <img src="https://img.shields.io/badge/Python-0b1220?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-0b1220?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-0b1220?style=flat&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-0b1220?style=flat&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal-0b1220?style=flat&logo=unrealengine&logoColor=white" />
-</p>
-
----
-
-## 📈 Activity
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LLParis&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://streak-stats.demolab.com?user=LLParis&theme=github-dark&hide_border=true" />
-</p>
-
-<details>
-  <summary><b>🧱 Receipts system (how I work)</b></summary>
-
-- Every week ships:
-  - ✅ demo clip (10–30s)
-  - ✅ commits (small but real)
-  - ✅ 1-page log (what I tried → result → next)
-- Every 4 weeks ships:
-  - ✅ a polished demo + short writeup + clear before/after
-
-</details>
-
-<p align="center">
-  <i>Proof beats hype.</i>
-</p>
+```text
+STATUS  : building foundations → shipping weekly artifacts
+FOCUS   : Python → tools → vision/graphics experiments
+RULE    : every week = demo clip + commits + 1-page log
