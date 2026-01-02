@@ -100,3 +100,41 @@
 STATUS  : building foundations → shipping weekly artifacts
 FOCUS   : Python → tools → vision/graphics experiments
 RULE    : every week = demo clip + commits + 1-page log
+
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="LLParis banner" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/LLParis">
+    <img src="https://img.shields.io/badge/github-LLParis-0b1220?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://twitter.com/ggen5v">
+    <img src="https://img.shields.io/badge/X-@ggen5v-0b1220?style=for-the-badge&logo=x" />
+  </a>
+</p>
+
+```text
+STATUS : building fundamentals → shipping weekly artifacts
+GOAL   : become research-ready through proof-of-work, not claims
+RULE   : every week = demo clip + commits + 1-page log
+Focus (current + long-term)
+Graphics × Generative AI: stylization, controllability, consistency
+
+Procedural world generation: code-driven scene/level variation, constraints, systems
+
+Simulation evals & benchmarks: measurable experiments, ablations, reliability
+
+Long-horizon memory/planning: agents that can track state and execute over time
+
+Build map (repos coming online)
+python-foundations-lab — course + upgraded projects (v1/v2)
+
+receipt-cli — promote a course project into a real CLI tool
+
+procgen-sim-lab — procedural generation + sim experiments
+
+eval-benchmarks-lab — small benchmarks + eval harnesses for reproducible results
+
+Stack (current)
+<p> <img src="https://img.shields.io/badge/Python-0b1220?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Git-0b1220?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-0b1220?style=flat&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Blender-0b1220?style=flat&logo=blender&logoColor=white" /> <img src="https://img.shields.io/badge/Unreal-0b1220?style=flat&logo=unrealengine&logoColor=white" /> </p> <details> <summary><b>Activity (optional)</b></summary> <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=LLParis&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" /> <img height="165" src="https://streak-stats.demolab.com?user=LLParis&theme=github-dark&hide_border=true" /> </p> </details> <p align="center"><i>Proof beats hype.</i></p> ```
