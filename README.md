@@ -444,8 +444,6 @@ accountability:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LLParis&show_icons=true&theme=react&hide_border=true&bg_color=0b1220&title_color=00E5FF&icon_color=7C3AED&text_color=cbd5e1&rank_icon=percentile&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLParis&layout=compact&theme=react&hide_border=true&bg_color=0b1220&title_color=00E5FF&text_color=cbd5e1&langs_count=8" />
 
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=LLParis&theme=react&hide_border=true&background=0b1220&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=22C55E&currStreakNum=cbd5e1&sideNums=cbd5e1&dates=94a3b8" />
 
