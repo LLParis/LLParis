@@ -20,7 +20,7 @@
     <img src="https://custom-icon-badges.demolab.com/badge/-GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0b1220"/>
   </a>
   <a href="https://twitter.com/ggen5v">
-    <img src="https://custom-icon-badges.demolab.com/badge/-X-7C3AED?style=for-the-badge&logo=x&logoColor=7C3AED&labelColor=0b1220"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-%40ggen5v-7C3AED?style=for-the-badge&logo=x&logoColor=7C3AED&labelColor=0b1220" alt="X" />
   </a>
   <img src="https://custom-icon-badges.demolab.com/badge/STATUS-🟢_BUILDING-22C55E?style=for-the-badge&labelColor=0b1220"/>
   <img src="https://custom-icon-badges.demolab.com/badge/WEEKLY-SHIPPING-00E5FF?style=for-the-badge&labelColor=0b1220"/>
