@@ -736,17 +736,17 @@ Novel contributions
 <table>
 <tr>
 <td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/0b1220/7C3AED?text=🌍+Procedural+Terrain" width="100%" alt="Terrain demo"/>
+<img src="https://placehold.co/300x200/0b1220/7C3AED?text=Procedural+Terrain" width="100%" alt="Terrain demo"/>
 <br/><b>Procedural Terrain</b>
 <br/><i>Q1 2026</i>
 </td>
 <td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/0b1220/22C55E?text=📊+Benchmark+Results" width="100%" alt="Benchmark demo"/>
+<img src="https://placehold.co/300x200/0b1220/22C55E?text=Benchmark+Suite" width="100%" alt="Benchmark demo"/>
 <br/><b>Benchmark Suite</b>
 <br/><i>Q1 2026</i>
 </td>
 <td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/0b1220/00E5FF?text=🤖+Agent+Planning" width="100%" alt="Agent demo"/>
+<img src="https://placehold.co/300x200/0b1220/00E5FF?text=Long-Horizon+Agent" width="100%" alt="Agent demo"/>
 <br/><b>Long-Horizon Agent</b>
 <br/><i>Q2 2026</i>
 </td>
